@@ -9,7 +9,7 @@
 
 - 👯 I’m looking for an opportunity to work as a **frontend developer**
 
-- 👨‍💻 Here is my portfolio [nikhil-bansal.netlify.app](nikhil-bansal.netlify.app)
+- 👨‍💻 Here is my portfolio [Portfolio](https://nikhil-bansal.netlify.app)
 
 - 📄 Know about my experiences [resume](resume)
 
