@@ -3,15 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil2408&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil2408" /> </p>
 
-- 🔭 I’m currently working on **my frontend skills**
+[<img align="right" alt="AWS SAA Badge" width="1800px" src=""/>](https://www.credly.com/badges/d6c100fd-3f8a-4b2a-ac78-1fa9c84b7fd8)
+
+- 🔭 I’m currently working on **my frontend web development skills**
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- 👯 I’m looking for an opportunity to work as a **frontend developer**
+- 👯 I’m looking for an opportunity to work as a **frontend web developer**
 
-- 👨‍💻 Here is my portfolio [Portfolio](https://nikhil-bansal.netlify.app)
+- ⚡ I am AWS Solution Architect Associate Certified - [My Badge](https://www.credly.com/badges/d6c100fd-3f8a-4b2a-ac78-1fa9c84b7fd8)
 
-- 📄 Know about my experiences [resume](resume)
+- 👨‍💻 Here is my portfolio [My Portfolio](https://nikhil-bansal.netlify.app)
+
+- 👨‍💻 All of my projects are available at **https://github.com/Nikhil2408/Web-Dev-Practice-Projects**
+
+- 📄 [Resume](resume)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil2408&show_icons=true&locale=en" alt="nikhil2408" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil2408&" alt="nikhil2408" /></p>
+
