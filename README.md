@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available in **[Web Dev Practive Project Repo](https://github.com/Nikhil2408/Web-Dev-Practice-Projects)**
 
-- 📄 [Resume](resume)
+- 📄 [Resume](https://drive.google.com/file/d/14w6XoeIzmS_dnCjBUFNko7vsOJX5yxk6/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
