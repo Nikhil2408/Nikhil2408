@@ -1,23 +1,21 @@
 <h1 align="center">Hi There 👋, I'm Nikhil Bansal</h1>
-<h3>A passionate frontend web developer. Currently, working as a software engineer in Accenture. I have worked on frontend technologies like JavaScript and ReactJS and backend technology like Java. I have some experience in AWS as well.</h3>
+<h3>Front-end developer with expertise in creating dynamic
+web applications. Skilled in JavaScript, ReactJS, Node.js,
+and MongoDB to deliver high-quality user experiences.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil2408&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil2408" /> </p>
 
 [<img align="right" alt="AWS SAA Badge" width="180px" src="https://github.com/Nikhil2408/Nikhil2408/blob/master/AWS_SAA_Badge.png"/>](https://www.credly.com/badges/d6c100fd-3f8a-4b2a-ac78-1fa9c84b7fd8)
 
-- 🔭 I’m currently working on **my frontend web development skills**
+- 🔭 I’m currently learning MERN stack**
 
-- 🌱 I’m currently learning **JavaScript and React**
-
-- 👯 I’m looking for an opportunity to work as a **frontend web developer**
+- 👯 I’m looking for an opportunity to work as a **full stack web developer (MERN)**
 
 - ⚡ I am AWS Solution Architect Associate Certified - **[My Badge](https://www.credly.com/badges/d6c100fd-3f8a-4b2a-ac78-1fa9c84b7fd8)**
 
 - 👨‍💻 Here is my portfolio **[My Portfolio](https://nikhil-bansal.netlify.app)**
 
-- 👨‍💻 All of my projects are available in **[Web Dev Practive Project Repo](https://github.com/Nikhil2408/Web-Dev-Practice-Projects)**
-
-- 📄 [Resume](https://drive.google.com/file/d/12mbh4TCONmgBmVXvm3n7NiskZHocPvxo/view?usp=sharing)
+- 📄 [Resume]([https://drive.google.com/file/d/12mbh4TCONmgBmVXvm3n7NiskZHocPvxo/view?usp=sharing](https://drive.google.com/file/d/1pDtNUf2aQ1oV1UHzhwPLX0bLMFeuN4fh/view?usp=sharing))
 
 
 <h3 align="left">Connect with me:</h3>
@@ -33,6 +31,11 @@
 
 <code><img title="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></code>
 <code><img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></code>
+<code><img title="Redux" src="https://static-00.iconduck.com/assets.00/redux-icon-2048x1945-ahvhunxp.png" alt="redux" width="50" height="50"/></code>
+<code><img title="nodejs" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" alt="Node JS" width="50" height="50"/></code>
+<code><img title="expressjs" src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" alt="Express JS" width="50" height="50"/></code>
+<code><img title="React Query" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="React Query" width="50" height="50"/></code>
+<code><img title="React Router DOM" src="https://www.svgrepo.com/show/354262/react-router.svg" alt="React Router DOM" width="50" height="50"/></code>
 <code><img title="Amazon Web Services(AWS)" src="https://ezerus.com.au/wp-content/uploads/2019/05/aws-logo-aws-new-logo-album-on-imgur-ideas.png" alt="aws" width="50" height="50"/></code>
 <code><img title="Oracle Database" src="https://pdjmaster.files.wordpress.com/2020/04/oracle-database.png" alt="oracle" width="50" height="50"/></code>
 <code><img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></code>
