@@ -15,7 +15,7 @@ and MongoDB to deliver high-quality user experiences.</h3>
 
 - 👨‍💻 Here is my portfolio **[My Portfolio](https://nikhil-bansal.netlify.app)**
 
-- 📄 [Resume](https://drive.google.com/file/d/1iRy_XI2kWnkQ_I6yxmA7hPHZ4lLc5-L8/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1xGxwxosOnYlAg6vTRBOneAkWcfpUiBKd/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
