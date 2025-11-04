@@ -1,21 +1,22 @@
 <h1 align="center">Hi There 👋, I'm Nikhil Bansal</h1>
-<h3>Front-end developer with expertise in creating dynamic
-web applications. Skilled in JavaScript, ReactJS, Node.js,
-and MongoDB to deliver high-quality user experiences.</h3>
+<h3>Senior Frontend Developer with 5 years of experience
+building scalable, user-centric web applications using
+React.js, JavaScript, and Express.js. Skilled at turning
+complex business workflows into intuitive UIs, optimizing
+performance, and collaborating with cross-functional
+teams to deliver impactful features.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil2408&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil2408" /> </p>
 
 [<img align="right" alt="AWS SAA Badge" width="180px" src="https://github.com/Nikhil2408/Nikhil2408/blob/master/AWS_SAA_Badge.png"/>](https://www.credly.com/badges/d6c100fd-3f8a-4b2a-ac78-1fa9c84b7fd8)
 
-- 🔭 I’m currently learning MERN stack**
-
-- 👯 I’m looking for an opportunity to work as a **full stack web developer (MERN)**
+- 🔭 I code in MERN stack**
 
 - ⚡ I am AWS Solution Architect Associate Certified - **[My Badge](https://www.credly.com/badges/d6c100fd-3f8a-4b2a-ac78-1fa9c84b7fd8)**
 
 - 👨‍💻 Here is my portfolio **[My Portfolio](https://nikhil-bansal.netlify.app)**
 
-- 📄 [Resume](https://drive.google.com/file/d/1Zp38IqUOv5MSuZl3qdBRDYAA2gW_Gj-Z/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1bX2hFidgtfKu9F_oTkZG7sXoHHNQeokF/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
