@@ -35,7 +35,7 @@ teams to deliver impactful features.</h3>
 <code><img title="Redux" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwh-2btrw1P54k-yIKqG_lsB_SVc48vGzWZQ&s" alt="redux" width="50" height="50"/></code>
 <code><img title="nodejs" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" alt="Node JS" width="50" height="50"/></code>
 <code><img title="expressjs" src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" alt="Express JS" width="50" height="50"/></code>
-<code><img title="React Query" src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png" alt="React Query" width="50" height="50"/></code>
+<code><img title="React Query" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSo7TUDjW9XRTF-bq1Qcoe9FyVD-4HMY-7dA&s" alt="React Query" width="50" height="50"/></code>
 <code><img title="React Router DOM" src="https://www.svgrepo.com/show/354262/react-router.svg" alt="React Router DOM" width="50" height="50"/></code>
 <code><img title="Amazon Web Services(AWS)" src="https://ezerus.com.au/wp-content/uploads/2019/05/aws-logo-aws-new-logo-album-on-imgur-ideas.png" alt="aws" width="50" height="50"/></code>
 <code><img title="Oracle Database" src="https://pdjmaster.files.wordpress.com/2020/04/oracle-database.png" alt="oracle" width="50" height="50"/></code>
