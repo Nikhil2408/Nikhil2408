@@ -16,7 +16,7 @@ teams to deliver impactful features.</h3>
 
 - 👨‍💻 Here is my portfolio **[My Portfolio](https://nikhil-bansal.netlify.app)**
 
-- 📄 [Resume](https://drive.google.com/file/d/1bX2hFidgtfKu9F_oTkZG7sXoHHNQeokF/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1MwxNSQ4Y3uET5ITOYpEQHcm7cYIw5p59/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
